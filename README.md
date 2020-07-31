@@ -1,2 +1,2 @@
 # Machine-Learning-using-Python
-The very fundamentals of Machine Learning described in Python
+This repository is the outcome of my learnings from Machine Learning A-Z course on Udemy. 
