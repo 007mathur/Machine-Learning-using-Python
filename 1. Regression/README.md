@@ -6,7 +6,8 @@ Mathematically it can be expressed as: <br>
 y = f(X) 
 <br>where, y is dependent variable and X is matrix of independent variables.<br>
 <br>
-There are many effective ways of conducting regression analysis some of which we've discussed here:<br>
+There are many effective ways of conducting regression analysis some of which we've discussed here:
+
 1. [Linear Regression](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/1.%20Regression/Linear%20Regression)
 2. [Multiple Linear Regression](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/1.%20Regression/Multiple%20Linear%20Regression)
 3. [Polynomoial Regresison](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/1.%20Regression/Polynomial%20Regression)
