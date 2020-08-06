@@ -1,10 +1,10 @@
-# Regression<br>
+# Regression
 <br>
 Regression is a technique for determining the statistical relationship between two or more variables where a change in a dependent variable is associated with, and depends on, a change in one or more independent variables. <br>
 <br>
 Mathematically it can be expressed as: <br>
-y = f(X) <br>
-where, y is dependent variable and X is matrix of independent variables.<br>
+y = f(X) 
+<br>where, y is dependent variable and X is matrix of independent variables.<br>
 <br>
 There are many effective ways of conducting regression analysis some of which we've discussed here:<br>
 1. [Linear Regression] (https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/1.%20Regression/Linear%20Regression)
