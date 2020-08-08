@@ -1,5 +1,5 @@
 # Machine-Learning-using-Python
-This repository is the outcome of my learnings from Machine Learning A-Z course on Udemy.<br>
+This repository is mainly the outcome of my learnings from Machine Learning A-Z course on Udemy.<br>
 The work on this repository is in progress. Currently, I'm working on the 2<sup>*nd*</sup> part. With time all the 9 parts will be uploaded on the repository.<br>
 <br>
 This repository is going to have 9 parts:<br>
@@ -13,4 +13,5 @@ This repository is going to have 9 parts:<br>
 8. [Dimentionality Reduction](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/8.%20Dimentionality%20Reduction)
 9. [Model Selection](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/9.%20Model%20Selection)
 
-I hope it serves as a reference to fellow ML enthusiasts.
+I hope it serves as a reference to fellow ML enthusiasts.<br>
+I've tried to include as much theory as possible for reference and understanding.<br>
