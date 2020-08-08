@@ -1,6 +1,6 @@
 # Machine-Learning-using-Python
 This repository is the outcome of my learnings from Machine Learning A-Z course on Udemy.<br>
-The work on this repository is in progress. Currently, I'm working on the 1<sup>*st*</sup> part. With time all the 9 parts will be uploaded on the repository.<br>
+The work on this repository is in progress. Currently, I'm working on the 2<sup>*nd*</sup> part. With time all the 9 parts will be uploaded on the repository.<br>
 <br>
 This repository is going to have 9 parts:<br>
 1. [Regression](https://github.com/dochimekashiariri/Machine-Learning-using-Python/tree/master/1.%20Regression)
